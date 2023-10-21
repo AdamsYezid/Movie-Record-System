@@ -1,0 +1,7 @@
+kt = 'boy'
+
+ak = 'girls'
+
+kk = ak' + 'kt
+
+print(kk)
